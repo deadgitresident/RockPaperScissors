@@ -1,2 +1,2 @@
 # RockPaperScissors
-RockPaperScissosrs
+RockPaperScissosrs game , enjoy the code I wrote
